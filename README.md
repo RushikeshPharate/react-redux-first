@@ -1,3 +1,10 @@
+This is a basic React-Redux App developed to understand the initial configuration of Redux. 
+Following functionality is implemented in this app:
+
+- Create **Reducers** for counter feature
+- create reduc **Store** for string all the states
+- Accessing states using **useSelector** and change states with **dispatch**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
