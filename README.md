@@ -2,8 +2,10 @@ This is a basic React-Redux App developed to understand the initial configuratio
 Following functionality is implemented in this app:
 
 - Create **Reducers** for counter feature
-- create reduc **Store** for string all the states
+- Create redux **Store** for string all the states
 - Accessing states using **useSelector** and change states with **dispatch**
+- Create another feature **theme**. Define reducers, store states in **redux** **Store**. 
+- Take input from user for font color change of the counter app. Send this color change request uaing dispatch to change the state in **redux Store**
 
 
 --------------------------------------------------------------------------------------------------------------------------------
